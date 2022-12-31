@@ -1,0 +1,3 @@
+[submodule "tgcrypto"]
+	path = tgcrypto
+	url = https://github.com/pyrogram/tgcrypto
